@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7d755f2.css",
+    "main.js": "/static/js/main.0d91b22f.js",
+    "static/media/fondRDV.jpg": "/static/media/fondRDV.9e6418a8799b0edddd80.jpg",
+    "static/media/fondTrouverVoiture.jpg": "/static/media/fondTrouverVoiture.27d8ae6d36be8e3de53c.jpg",
+    "static/media/acier.jpg": "/static/media/acier.963f713ecec700b7d685.jpg",
+    "static/media/fondActus.jpg": "/static/media/fondActus.4aa3e4c297385d1cef30.jpg",
+    "static/media/fondTitreAccueil.jpg": "/static/media/fondTitreAccueil.26381f7853d1897570ac.jpg",
+    "static/media/boisDecor.jpg": "/static/media/boisDecor.fd92ac4dbeed01fd74e4.jpg",
+    "static/media/lavage.jpg": "/static/media/lavage.3ed707bfc9e71d09ad74.jpg",
+    "static/media/visDecor.png": "/static/media/visDecor.ef50aa64b5818b15e6b7.png",
+    "static/media/fondSavoirPlus.jpg": "/static/media/fondSavoirPlus.7556b2511d27efb1d58e.jpg",
+    "static/media/photoSteve.jpg": "/static/media/photoSteve.8c3cdf10189f31a2c6d0.jpg",
+    "static/media/fondAide.jpg": "/static/media/fondAide.4c100bf416f69cdbf7e4.jpg",
+    "static/media/fondFinal.jpg": "/static/media/fondFinal.fb35891969a989aab64b.jpg",
+    "static/media/Caveat.ttf": "/static/media/Caveat.1c7dfada8e0bdd917d29.ttf",
+    "static/media/parchemin.png": "/static/media/parchemin.a9daca8bb3b731b3394b.png",
+    "static/media/aplomb.jpg": "/static/media/aplomb.44eb04eb882fcba2bd23.jpg",
+    "static/media/fondNosVoitures.png": "/static/media/fondNosVoitures.dc963293f12a68ca3920.png",
+    "static/media/GloriaHallelujah-Regular.ttf": "/static/media/GloriaHallelujah-Regular.c9da976c6f9088d1b3c9.ttf",
+    "static/media/reparation.jpg": "/static/media/reparation.6db623ff2568fec4186b.jpg",
+    "index.html": "/index.html",
+    "main.a7d755f2.css.map": "/static/css/main.a7d755f2.css.map",
+    "main.0d91b22f.js.map": "/static/js/main.0d91b22f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d755f2.css",
+    "static/js/main.0d91b22f.js"
+  ]
+}
